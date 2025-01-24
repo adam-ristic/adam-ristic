@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on a portfolio website! Unfortunately it won't be finished until next time :(
 
-🌱 I’m currently learning React and ASP.NET
+🌱 I’m currently learning React and ASP.NET.
 
 # LinkedIn
 
