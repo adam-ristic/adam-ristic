@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi! I'm Adam, an aspiring Software Developer. 👋
 
-<!--
-**adam-ristic/adam-ristic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Currently a student within the Software Development program at Mohawk College, I'm always looking to learn new things to use on my own personal projects. I love taking simple ideas and making them reality!
 
-Here are some ideas to get you started:
+🛠️ My current go-to toolkit includes plain old Javascript and PHP for web development, as well as C# or Java for any desktop apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+🔭 I’m currently working on a portfolio website! Unfortunately it won't be finished until next time :(
+
+🌱 I’m currently learning React and ASP.NET
+
+# LinkedIn
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
